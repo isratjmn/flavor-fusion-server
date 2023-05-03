@@ -1,0 +1,62 @@
+[
+	{
+		"_id": "1",
+		"chefName": "Anna Petrov",
+		"yearsOfExperience": 18,
+		"numberOfRecipes": 90,
+		"likes": 175,
+		"viewRecipes": "https://example.com/chef-anna-petrov/recipes",
+		"button": "View Profile",
+		"chefPhoto": "https://i.ibb.co/vjqhpNz/1.jpg"
+	},
+	{
+		"_id": "2",
+		"chefName": "Hassan Abdullah",
+		"yearsOfExperience": 12,
+		"numberOfRecipes": 60,
+		"likes": 110,
+		"viewRecipes": "https://example.com/chef-hassan-abdullah/recipes",
+		"button": "View Profile",
+		"chefPhoto": "https://i.ibb.co/fF3pPRj/3.jpg"
+	},
+	{
+		"_id": "3",
+		"chefName": "Sophia Lee",
+		"yearsOfExperience": 8,
+		"numberOfRecipes": 40,
+		"likes": 68,
+		"viewRecipes": "https://example.com/chef-sophia-lee/recipes",
+		"button": "View Profile",
+		"chefPhoto": "https://i.ibb.co/ZhCZNnJ/7.jpg"
+	},
+	{
+		"_id": "4",
+		"chefName": "Maria Rodriguez",
+		"yearsOfExperience": 20,
+		"numberOfRecipes": 100,
+		"likes": 203,
+		"viewRecipes": "https://example.com/chef-maria-rodriguez/recipes",
+		"button": "View Profile",
+		"chefPhoto": "https://i.ibb.co/j5knvPN/smiling-chef-cooking-flambe-PZSV6-KL.jpg"
+	},
+	{
+		"_id": "5",
+		"chefName": "John Moreson",
+		"yearsOfExperience": 15,
+		"numberOfRecipes": 75,
+		"likes": 128,
+		"viewRecipes": "https://example.com/chef-john-doe/recipes",
+		"button": "View Profile",
+		"chefPhoto": "https://i.ibb.co/KXN0j1h/chef-at-workplace-XZLQJV9.jpg"
+	},
+	{
+		"_id": "6",
+		"chefName": "Smith Warson",
+		"yearsOfExperience": 5,
+		"numberOfRecipes": 4,
+		"likes": 128,
+		"viewRecipes": "https://example.com/chef-john-doe/recipes",
+		"button": "View Profile",
+		"chefPhoto": "https://i.ibb.co/j5knvPN/smiling-chef-cooking-flambe-PZSV6-KL.jpg"
+	}
+]
