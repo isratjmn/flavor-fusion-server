@@ -22,7 +22,7 @@ app.get("/cards", (req, res) => {
 
 app.get("/cards/:id", (req, res) => {
 	const id = req.params.id;
-	// console.log(id);
+	console.log(id);
 	const selectCards = cards.find(n => n._id === id);
 	res.send(selectCards);
 });
