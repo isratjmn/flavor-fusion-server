@@ -1,32 +1,26 @@
-const express = require("express");
+const express = require('express');
+const cors = require('cors');
 const app = express();
-var cors = require("cors");
-const port = process.env.PORT || 7000;
-
-const services = require("./data/services.json");
-const cards = require("./data/cards.json");
-
 app.use(cors());
-
-app.get("/", (req, res) => {
-	res.send("Flavor Fusion Site is Running!!!");
-});
-app.get("/services", (req, res) => {
-	res.send(services);
-});
-
-
-app.get("/cards", (req, res) => {
-	res.send(cards);
+const port = process.env.PORT || 5000;
+const chefs = require('./data/chefs.json');
+const blogs = require('./data/blog.json')
+app.get('/', (req, res) => {
+    res.json({ message: 'Hello Server is Running' });
 });
 
-app.get("/cards/:id", (req, res) => {
-	const id = req.params.id;
-	console.log(id);
-	const selectCards = cards.find(n => n._id === id);
-	res.send(selectCards);
+app.get('/chefs', (req, res) => {
+    res.send(chefs);
 });
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedData = chefs.find(n => n.id == id);
+    res.send(selectedData);
+});
+app.get('/blogs',(req,res)=>{
+    res.send(blogs)
+})
 
 app.listen(port, () => {
-	console.log(`Flavor Fusion Site is Running on Port: ${port}`);
+    console.log(`Server is runnig port: ${port}`);
 });
