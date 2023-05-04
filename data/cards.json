@@ -27,6 +27,7 @@
 		"rating": 4.5,
 
 		"recipeName2": "Moussaka",
+		"recipeImage2": "https://i.ibb.co/th4mTz6/dimora-ulmo.jpg",
 		"ingredients2": [
 			"2 eggplants, sliced into 1/4 inch rounds",
 			"1 lb ground lamb",
@@ -48,6 +49,7 @@
 		"rating2": 4.9,
 
 		"recipeName3": "Tabbouleh",
+		"recipeImage3": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
 		"ingredients3": [
 			"1/2 cup bulgur wheat",
 			"1/4 cup olive oil",
@@ -92,6 +94,7 @@
 		"rating": 4.2,
 
 		"recipeName2": "Lamb Gyro",
+		"recipeImage2": "https://i.ibb.co/th4mTz6/dimora-ulmo.jpg",
 		"ingredients2": [
 			"1 lb ground lamb",
 			"1/2 onion, grated",
@@ -110,6 +113,7 @@
 		"rating2": 4.6,
 
 		"recipeName3": "Tabbouleh",
+		"recipeImage3": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
 		"ingredients3": [
 			"1 cup bulgur wheat",
 			"2 cups boiling water",
@@ -153,6 +157,7 @@
 		"rating": 4.7,
 
 		"recipeName2": "Tabbouleh",
+		"recipeImage2": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
 		"ingredients2": [
 			"1 cup bulgur wheat",
 			"2 cups boiling water",
@@ -171,6 +176,7 @@
 		"rating2": 4.4,
 
 		"recipeName3": "Fattoush Salad",
+		"recipeImage3": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
 		"ingredients3": [
 			"1 large pita bread, torn into bite-size pieces",
 			"2 tbsp olive oil",
@@ -198,7 +204,7 @@
 		"chefName": "Maria Rodriguez",
 		"yearsOfExperience": 20,
 		"numberOfRecipes": 100,
-		"recipeImage": "https://i.ibb.co/MfywhmM/grilled-swordfish-lemon-garlic.jpg",
+		"recipeImage": "https://i.ibb.co/yg0wJd9/food.jpg",
 		"likes": 203,
 		"button": "View Profile",
 		"chefPhoto": "https://i.ibb.co/j5knvPN/smiling-chef-cooking-flambe-PZSV6-KL.jpg",
@@ -213,7 +219,42 @@
 			"1/4 tsp black pepper"
 		],
 		"cookingMethod": "1. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and black pepper. \n2. Place swordfish steaks in a shallow dish and pour marinade over the top. Cover and refrigerate for 30 minutes. \n3. Preheat grill to medium-high heat. Grill swordfish for 4-5 minutes per side, until cooked through. \n4. Serve hot with lemon wedges.",
-		"rating": 4.8
+		"rating": 4.8,
+
+		"recipeName2": "Tabbouleh",
+		"recipeImage2": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
+		"ingredients2": [
+			"1 cup bulgur wheat",
+			"2 cups boiling water",
+			"1/4 cup extra-virgin olive oil",
+			"1/4 cup lemon juice",
+			"1 clove garlic, minced",
+			"1 tsp salt",
+			"1/4 tsp black pepper",
+			"2 cups chopped fresh parsley",
+			"1/2 cup chopped fresh mint",
+			"1 cucumber, diced",
+			"2 tomatoes, diced",
+			"1/4 red onion, diced"
+		],
+		"cookingMethod2": "1. In a large bowl, combine bulgur wheat, boiling water, extra-virgin olive oil, lemon juice, minced garlic, salt, and black pepper. \n2. Stir to combine, then cover and let sit for 30 minutes. \n3. After 30 minutes, fluff bulgur with a fork. \n4. Add chopped fresh parsley, chopped fresh mint, diced cucumber, diced tomatoes, and diced red onion. \n5. Toss to combine. \n6. Taste and adjust seasoning as needed. \n7. Chill in the refrigerator for at least 1 hour before serving. \n8. Serve cold or at room temperature.",
+		"rating2": 4.4,
+
+		"recipeName3": "Baba Ghanoush",
+		"recipeImage3": "https://i.ibb.co/dr2Xh5z/falafel-wrap.jpg",
+		"ingredients3": [
+			"2 medium eggplants",
+			"3 cloves garlic, minced",
+			"2 tbsp tahini",
+			"2 tbsp lemon juice",
+			"1/4 tsp cumin",
+			"1/4 tsp paprika",
+			"Salt and pepper to taste",
+			"2 tbsp extra-virgin olive oil",
+			"Chopped fresh parsley for garnish"
+		],
+		"cookingMethod3": "1. Preheat oven to 400°F. \n2. Prick eggplants with a fork several times and place on a baking sheet. \n3. Roast eggplants in the oven for 30-40 minutes, or until they are soft and the skin is charred. \n4. Let eggplants cool, then peel off the skin and discard. \n5. Place eggplant flesh in a food processor and pulse until smooth. \n6. Add minced garlic, tahini, lemon juice, cumin, paprika, salt, and black pepper to the food processor and pulse again until well combined.",
+		"rating3": 4.6
 	},
 	{
 		"_id": "5",
@@ -240,6 +281,7 @@
 		"rating": 4.1,
 
 		"recipeName2": "Hummus",
+		"recipeImage2": "https://i.ibb.co/CzDNppz/a5.jpg",
 		"ingredients2": [
 			"1 can (15 oz) chickpeas, drained and rinsed",
 			"1/4 cup fresh lemon juice",
@@ -255,6 +297,7 @@
 		"rating2": 4.7,
 
 		"recipeName3": "Baba Ghanoush",
+		"recipeImage3": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
 		"ingredients3": [
 			"2 large eggplants",
 			"1/4 cup tahini",
@@ -298,6 +341,7 @@
 		"rating": 4.8,
 
 		"recipeName2": "Fattoush Salad",
+		"recipeImage2": "https://i.ibb.co/CzDNppz/a5.jpg",
 		"ingredients2": [
 			"1 large pita bread, torn into bite-size pieces",
 			"2 tbsp olive oil",
@@ -321,6 +365,7 @@
 		"rating2": 4.6,
 
 		"recipeName3": "Baba Ghanoush",
+		"recipeImage3": "https://i.ibb.co/8dqsYzN/shakshuka.jpg",
 		"ingredients3": [
 			"2 medium eggplants",
 			"3 cloves garlic, minced",
@@ -336,3 +381,7 @@
 		"rating3": 4.6
 	}
 ]
+
+
+
+
