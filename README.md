@@ -1,4 +1,4 @@
-# ChoosyFoddy server
+# FlavorFusion Server
 
 * create server -> npm init --y
 * install express -> npm i express
