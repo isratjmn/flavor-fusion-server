@@ -8,7 +8,6 @@ const blogs = require('./data/blog.json')
 app.get('/', (req, res) => {
     res.json({ message: 'Hello Server is Running' });
 });
-
 app.get('/chefs', (req, res) => {
     res.send(chefs);
 });
@@ -20,7 +19,6 @@ app.get('/chef/:id', (req, res) => {
 app.get('/blogs',(req,res)=>{
     res.send(blogs)
 })
-
 app.listen(port, () => {
     console.log(`Server is runnig port: ${port}`);
 });
